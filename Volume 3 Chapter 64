@@ -3,11 +3,11 @@
   "description": "Kokubo Masahiko is normal Junior High School student, but because of his bad grades he gets a home tutor known by the name of Hamanaka Ai. With help from her senpai Nakamura Ryoko, she goes about her days being a home tutor to a young boy bringing perversion and misunderstandings along with it.",
   "artist": "UJIIE Tozen",
   "author": "UJIIE Tozen",
-  "cover": "<https://i.imgur.com/NfRB2aP.jpg>",
+  "cover": "https://i.imgur.com/NfRB2aP.jpg",
   "chapters": {
-    "<64>": {
-      "title": "<Girls' Bust UP Strategy>",
-      "volume": "<3>",
+    "64": {
+      "title": "Girls' Bust UP Strategy",
+      "volume": "3",
       "groups": {
         "Mushokuji": "/proxy/api/imgur/chapter/QecrmVb/"
       },
